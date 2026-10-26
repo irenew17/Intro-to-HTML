@@ -10,19 +10,9 @@ body {
   background-color: wheat;
 }
 div {
-  width: 30rem;
-  height: 55rem;
+  width: 100rem;
+  height: 100rem;
   background-color: sandybrown;
   margin: 2.5rem 5rem 4rem 4rem;
   padding: 5rem;
-}
-.card {
-  background-color: green;
-}
-#test {
-  background-color: blue;
-}
-.card-title {
-  text-align: center;
-  color: white;
 }
