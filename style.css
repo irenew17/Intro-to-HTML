@@ -7,15 +7,22 @@ body,
   padding: 0;
 }
 body {
-  background-color: #1d232a;
+  background-color: wheat;
 }
 div {
   width: 30rem;
   height: 55rem;
-  background-color: #ff0000;
+  background-color: sandybrown;
   margin: 2.5rem 5rem 4rem 4rem;
   padding: 5rem;
 }
 .card {
   background-color: green;
+}
+#test {
+  background-color: blue;
+}
+.card-title {
+  text-align: center;
+  color: white;
 }
