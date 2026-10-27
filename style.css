@@ -9,10 +9,11 @@ body,
 body {
   background-color: wheat;
 }
-div {
+.card {
+  font-size: 64px;
   width: 100rem;
   height: 100rem;
   background-color: sandybrown;
-  margin: 2.5rem 5rem 4rem 4rem;
+  margin: 2.5rem 5rem;
   padding: 5rem;
 }
