@@ -16,7 +16,17 @@ body {
   margin: 2.5rem 5rem;
   padding: 5rem;
 }
-
+.hero {
+  height: 100vh;
+  color: white;
+  background-image: linear-gradient(rgba()) url("");
+  background-size: cover;
+  background-position: center;
+  background-attachment: scroll;
+}
 .card-name {
-  
+  font-size: 10rem;
+}
+.card-two {
+  font-size: 3rem;
 }
