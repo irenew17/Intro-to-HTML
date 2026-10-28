@@ -10,10 +10,13 @@ body {
   background-color: wheat;
 }
 .card {
-  font-size: 64px;
   width: 100rem;
   height: 100rem;
   background-color: sandybrown;
   margin: 2.5rem 5rem;
   padding: 5rem;
+}
+
+.card-name {
+  
 }
